@@ -20,18 +20,22 @@ A simple and robust **Student Management System** built with **Java** and **Spri
 - MySQL / H2 Database (depending on your configuration)  
 - Thymeleaf (if web-based UI is included)
 
+
 ## 📁 Project Structure
+
+```
 student-management/
-│
-├── .mvn/ # Maven wrapper files
-├── src/ # Source code
-│ ├── main/
-│ │ ├── java/ # Java source files
-│ │ └── resources/ # Application properties, templates, static files
-│ └── test/ # Test cases
-├── pom.xml # Maven dependencies and project config
-├── README.md # Project documentation
+├── .mvn/                  # Maven wrapper files
+├── src/                   # Source code
+│   └── main/
+│       ├── java/          # Java source files
+│       └── resources/     # Application properties, templates, static files
+├── test/                  # Test cases
+├── pom.xml                # Maven dependencies and project config
+├── README.md              # Project documentation
 └── .gitignore
+```
+
 
 ## ⚙️ Getting Started
 
