@@ -30,6 +30,9 @@ A simple and robust **Student Management System** built with **Java** and **Spri
 - Maven
 - MySQL (or H2 for in-memory testing)
 
+### 🙌 Contribution
+Contributions are welcome! Please fork the repository and submit a pull request.
+
 ### Setup Instructions
 
 1. **Clone the repository**
@@ -39,18 +42,8 @@ A simple and robust **Student Management System** built with **Java** and **Spri
 2. Run the application
  ```bash
    mvn spring-boot:run
-<br>
-### ✅ Future Enhancements
-Role-based authentication and login system
 
-Pagination and search functionality
 
-Frontend improvements (Bootstrap or React integration)
-
-Unit and integration tests
-
-🙌 Contribution
-Contributions are welcome! Please fork the repository and submit a pull request.
 
 
 
