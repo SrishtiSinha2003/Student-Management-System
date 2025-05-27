@@ -36,6 +36,9 @@ A simple and robust **Student Management System** built with **Java** and **Spri
    ```bash
    git clone https://github.com/<your-username>/Student-Management-System.git
    cd student-management
+2. Run the application
+ ```bash
+   mvn spring-boot:run
 
 
 
