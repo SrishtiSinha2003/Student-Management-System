@@ -21,6 +21,17 @@ A simple and robust **Student Management System** built with **Java** and **Spri
 - Thymeleaf (if web-based UI is included)
 
 ## 📁 Project Structure
+student-management/
+│
+├── .mvn/ # Maven wrapper files
+├── src/ # Source code
+│ ├── main/
+│ │ ├── java/ # Java source files
+│ │ └── resources/ # Application properties, templates, static files
+│ └── test/ # Test cases
+├── pom.xml # Maven dependencies and project config
+├── README.md # Project documentation
+└── .gitignore
 
 ## ⚙️ Getting Started
 
@@ -42,8 +53,3 @@ Contributions are welcome! Please fork the repository and submit a pull request.
 2. Run the application
  ```bash
    mvn spring-boot:run
-
-
-
-
-
